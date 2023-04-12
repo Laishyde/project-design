@@ -55,7 +55,9 @@
     font-size: 15px;
 }
 .time p{
+    text-align: center;
     width: 350px;
+    padding: 20px;
 }
 .card{
     height: 400px;
